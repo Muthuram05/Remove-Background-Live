@@ -1,4 +1,7 @@
-# Remove-Background-Live
-Requirments:
-numpy,
-mediapipe==0.8.9.1 or Higher
+## Remove-Background-Live
+
+## In the project directory, you can run:
+### `pip install -r requirement.txt`
+### python bg.py
+
+
