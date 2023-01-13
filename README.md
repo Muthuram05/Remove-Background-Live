@@ -11,6 +11,6 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/muthuram05/Remove-Background-Live/demo.png'>
+<img src='https://github.com/Muthuram05/Remove-Background-Live/blob/main/demo.png'>
 
 ## Just follow me and Star⭐ my repository
